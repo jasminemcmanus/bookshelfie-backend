@@ -1,0 +1,100 @@
+{
+    "books": [
+      {
+        "title": "Legends and Lattes",
+        "authorName": "Travis Baldree",
+        "genre": "Fantasy",
+        "readStatus": true,
+        "review": "This book is super cute ◡̈ ",
+        "id": 1
+      },
+      {
+        "title": "Breadfruit",
+        "authorName": "Célestine Vaite",
+        "genre": "Romance",
+        "readStatus": true,
+        "review": "◡̈ ◡̈ ",
+        "id": 2
+      },
+      {
+        "title": "Girl, Woman, Other",
+        "authorName": "Bernadine Evaristo",
+        "genre": "Contemporary",
+        "readStatus": true,
+        "review": "",
+        "id": 3
+      },
+      {
+        "title": "The Housekeeper and The Professor",
+        "authorName": "Yoko Ogawa",
+        "genre": "Contemporary",
+        "readStatus": true,
+        "review": "This book made me cry ◡̈  ◡̈ ",
+        "id": 4
+      },
+      {
+        "title": "The Music of Bees",
+        "authorName": "Eileen Garvin",
+        "genre": "Contemporary",
+        "readStatus": true,
+        "review": "",
+        "id": 5
+      },
+      {
+        "title": "Before The Coffee Gets Cold",
+        "authorName": "Toshikazu Kawaguchi",
+        "genre": "Contemporary",
+        "readStatus": true,
+        "review": "",
+        "id": 6
+      },
+      {
+        "title": "Animal Farm",
+        "authorName": "George Orwell",
+        "genre": "Literary Fiction",
+        "readStatus": false,
+        "review": "",
+        "id": 7
+      },
+      {
+        "title": "Frankenstein",
+        "authorName": "Mary Shelley",
+        "genre": "Gothic",
+        "readStatus": false,
+        "review": "",
+        "id": 8
+      },
+      {
+        "title": "Emily Wilde's Encyclopaedia of Faeries",
+        "authorName": "Heather Fawcett",
+        "genre": "Fantasy",
+        "readStatus": false,
+        "review": "",
+        "id": 9
+      },
+      {
+        "title": "Godkiller",
+        "authorName": "Hannah Kaner",
+        "genre": "Fantasy",
+        "readStatus": true,
+        "review": "",
+        "id": 10
+      },
+      {
+        "title": "The Hidden Palace",
+        "authorName": "Helene Wecker",
+        "genre": "Fantasy",
+        "readStatus": false,
+        "review": "",
+        "id": 11
+      },
+      {
+        "title": "The Hobbit",
+        "authorName": "J R R Tolkien",
+        "genre": "Fantasy",
+        "readStatus": true,
+        "review": "I like this book ◡̈ ",
+        "id": 12
+      }
+    ]
+  }
